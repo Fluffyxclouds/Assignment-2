@@ -1,0 +1,59 @@
+p {font-size: 16px;
+    color:red ;
+}
+.highlight {
+    color:yellow;
+    text-decoration: underline;
+}
+#heading {
+    font-size: 20px;
+    color:black;
+}
+#header {
+    background-color: coral;
+    padding: 10px;
+}
+#main {
+    background-color: deeppink;
+    padding: 20px;
+}
+#footer {
+    background-color: aqua;
+    padding: 10px;
+}
+h3 {
+    border: 1px solid black;
+    padding: 50px;
+    margin: 100px;
+}
+.static {
+    position: static;
+    background: green;
+}
+.relative {
+    position: relative;
+    background: yellow;
+}
+.absolute {
+    position: absolute;
+    background: red;
+}
+h1 {
+    font-size: 2rem;
+}
+img {
+    width: 100px;
+    max-width: 50%;
+}
+.left {
+    float: left;
+    width: 150px;
+    height: 100px;
+    background: pink;
+}
+.right {
+    float: right;
+    width: 150px;
+    height: 100px;
+    background-color: white;
+}
